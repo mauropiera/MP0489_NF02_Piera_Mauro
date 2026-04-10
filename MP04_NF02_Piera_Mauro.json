@@ -1,0 +1,16 @@
+{
+  "canciones": [
+    {
+      "nombre": "cancion1",
+      "url": "https://github.com/mauropiera/MP0489_NF02_Piera_Mauro/blob/main/Cancion1.mp3"
+    },
+    {
+      "nombre": "cancion2",
+      "url": "https://github.com/mauropiera/MP0489_NF02_Piera_Mauro/blob/main/Cancion2.mp3"
+    },
+    {
+      "nombre": "cancion3",
+      "url": "https://github.com/mauropiera/MP0489_NF02_Piera_Mauro/blob/main/Cancion3.mp3"
+    }
+  ]
+}
